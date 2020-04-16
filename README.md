@@ -1,7 +1,7 @@
 # info
 
 Kelvin Wu -
-kelvin.wu86@qmail.cuny.edu <p>
+kelvin.wu86@qmail.cuny.edu - Project Leader<p>
 Kevin Balderrama - Kevin.Balderrama23@qmail.cuny.edu <p>
 Trisha Espejo -
 trishaespejo@gmail.com <p>
