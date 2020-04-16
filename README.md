@@ -1,9 +1,9 @@
 # info
 
 Kelvin Wu -
-kelvin.wu86@qmail.cuny.edu </br>
-Kevin Balderrama - Kevin.Balderrama23@qmail.cuny.edu </br>
+kelvin.wu86@qmail.cuny.edu <p>
+Kevin Balderrama - Kevin.Balderrama23@qmail.cuny.edu <p>
 Trisha Espejo -
-trishaespejo@gmail.com <br>
+trishaespejo@gmail.com <p>
 Richard Lomax -
 richard.lomax98@qmail.cuny.edu
